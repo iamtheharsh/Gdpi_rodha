@@ -1,6 +1,6 @@
-# Ignore HTML files except GDPI Pro
+# Ignore HTML files except index.html
 *.html
-!GDPI Pro Program*.html
+!index.html
 
 # Ignore Python files
 *.py
