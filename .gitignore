@@ -1,5 +1,6 @@
-# Ignore all HTML files except specific ones
+# Ignore HTML files except GDPI Pro
 *.html
+!GDPI Pro Program*.html
 
 # Ignore Python files
 *.py
@@ -9,7 +10,3 @@
 Thumbs.db
 *.tmp
 *.temp
-
-# Keep specific files (uncomment if needed)
-# !important-file.html
-# !README.md
