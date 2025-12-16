@@ -1,0 +1,15 @@
+# Ignore all HTML files except specific ones
+*.html
+
+# Ignore Python files
+*.py
+
+# Ignore common OS and editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Keep specific files (uncomment if needed)
+# !important-file.html
+# !README.md
