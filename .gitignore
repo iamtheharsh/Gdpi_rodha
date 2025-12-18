@@ -1,6 +1,7 @@
 # Ignore HTML files except index.html
 *.html
 !index.html
+!pure-test.html
 
 # Ignore Python files
 *.py
